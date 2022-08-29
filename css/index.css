@@ -1,0 +1,134 @@
+@import url(./component.css);
+@import url(./reset.css);
+@import url(utils.css);
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+    
+.hero-title{
+    background-image: url(./../images/sc_landing_header_web_featured_artists-8081257b.jpg);
+    object-fit: cover;
+    width: 124rem;
+    height: 46.5rem;
+}
+
+.nh{
+    color: #fff;
+    padding:2rem 3rem 2rem 17rem;
+    gap: 1rem;
+}
+
+.seh{
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 8rem;
+    font-size: 1.6rem;
+    gap: 2rem;
+}
+
+section p{
+    width: 38%;
+    text-align: center;
+}
+
+.f{
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 2rem;
+}
+
+.h1b{
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.div-mob{
+    margin-left: 5rem;
+    margin-right:5rem;
+    background-color: #f2f2f2;
+    height: 80%;
+}
+
+.div-mob-mtn{
+    margin-left:2.5%;
+    font-size:5rem;
+    margin-top: 2%;
+}
+
+.div-mob-mtn-p2{
+    width: 70%;
+    font-size:2.3rem ;
+    margin-top: 16%;
+}
+
+
+.btn-end1{
+    margin-top: 17% ;
+    background-image: url(./../images/btn1.png);
+    height: 9.3%;
+    width: 24.3%;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-end2{
+    margin-top: 17% ;
+    background-image: url(./../images/btn2.png);
+    height: 9.3%;
+    width: 27.5%;
+    border: none;
+    cursor: pointer;
+}
+
+.end{
+    background-image: url(./../images/edit3.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    color: #fff;
+    margin-left:5rem;
+    margin-right: auto;
+    object-fit: cover;
+}
+
+.end1{
+    font-size: 3.5rem;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.end2{
+    font-size: 1.5rem;
+    padding-top: 3rem;
+    width: 34%;
+    padding-left: 10%;
+}
+
+.diff{
+    cursor: pointer;
+    border: .1rem solid #fff;
+    background-color: black;
+    color: #fff;
+    padding: .3rem 2rem;
+    margin-left: 10%;
+    margin-top: 3rem;
+    margin-bottom: 7%;
+}
+.sec{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.end-a{
+    background-color: #fff; 
+    border:.01rem solid #f8f8f8;
+    padding: .5rem 2rem;
+    margin-left: 2rem;
+    cursor: pointer;
+}

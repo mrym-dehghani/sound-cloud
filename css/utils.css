@@ -1,0 +1,29 @@
+.container{
+    max-width: 1360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.flex-1{
+    flex-grow: 1;
+}
+
+.name-song1{
+    font-size:1.4rem;
+}
+
+.martop{
+    margin-top: 5rem;
+}
+
+.alce{
+    align-items: center;
+}
+
+.juce{
+    justify-content: center;
+}
